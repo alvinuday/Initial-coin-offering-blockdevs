@@ -380,8 +380,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Block Devs NFT | Mint</title>
-        <meta name="description" content="Mint Block Devs NFT Collection" />
+        <title>Block Devs Token| Mint</title>
+        <meta name="description" content="Mint Block Devs Tokens" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="absolute inset-0 my-8 mx-5 rounded-md flex flex-col justify-around md:flex-row md:content-center">
