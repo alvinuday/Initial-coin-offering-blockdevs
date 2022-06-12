@@ -1,15 +1,4 @@
-# Basic Sample Hardhat Project
+# Initial Coin Offering for Block Devs NFT Collection
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Users can buy tokens in exchange of 0.01 ETH per token. Block Dev NFT Holders can claim 10 Tokens per Block Dev NFT.
+https://initial-coin-offering-blockdevs.vercel.app/
